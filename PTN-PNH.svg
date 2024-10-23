@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<svg width="1200" height="260" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <g class="layer">
+  <title>Layer 1</title>
+  <rect fill="#0057B7" height="133" id="svg_1" width="1200" x="0" y="0"/>
+  <rect fill="#FFD700" height="127" id="svg_2" width="1200" x="0" y="133"/>
+  <text fill="#000000" font-family="Sans-serif" font-size="24" id="svg_3" stroke="#000000" stroke-width="0" text-anchor="middle" transform="matrix(8.14081 0 0 5.40365 -3434.33 -1126.25)" x="491.52" xml:space="preserve" y="230.76">ПТН</text>
+  <text fill="#000000" font-family="Sans-serif" font-size="24" id="svg_4" stroke="#000000" stroke-width="0" text-anchor="middle" transform="matrix(7.90382 0 0 5.15183 -3264.28 -2392.01)" x="484.74" xml:space="preserve" y="509.29">ПНХ</text>
+ </g>
+</svg>
